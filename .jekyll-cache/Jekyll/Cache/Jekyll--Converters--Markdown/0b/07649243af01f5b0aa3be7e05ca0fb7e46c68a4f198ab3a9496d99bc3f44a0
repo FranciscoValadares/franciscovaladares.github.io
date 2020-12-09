@@ -1,4 +1,4 @@
-I"¿<p>Para para material de leitura</p>
+I"É<p>Para para material de leitura</p>
 
 <h4 id="material-de-referencia-para-o-jekyll">Material de referencia para o jekyll</h4>
 <ul>
@@ -6,9 +6,14 @@
   <li><a href="https://blog.webjeda.com/new-page-jekyll/">new page jekyll</a></li>
 </ul>
 
+<h4 id="markdown">MarkDown</h4>
+<ul>
+  <li><a href="https://guides.github.com/features/mastering-markdown/">MarkDown</a></li>
+</ul>
+
 <h4 id="dotnet-core">DotNet Core</h4>
 <ul>
-  <li>Getting Started with .NET Core, Docker, and RabbitMQ â€” Part 1</li>
+  <li><a href="https://medium.com/trimble-maps-engineering-blog/getting-started-with-net-core-docker-and-rabbitmq-part-1-a62601e784bb">Getting Started with .NET Core, Docker, and RabbitMQ â€” Part 1</a></li>
 </ul>
 
 <h3 id="_configyml">_config.yml</h3>
