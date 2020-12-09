@@ -14,7 +14,7 @@
 <div class="sidebar-item sidebar-nav">
 	<ul class="nav">
       <li class="nav-title">Pages</li>
-	  
+<!-- 	  
 	  {% assign pages_list = site.pages %}
 	  {% for node in pages_list %}
 	    {% if node.title != null %}
@@ -26,11 +26,14 @@
 	        </li>
 	      {% endif %}
 	    {% endif %}
-	  {% endfor %}
+	  {% endfor %} -->
 	  	<li>
-		<a class="nav-item" href="/">Artigos</a>
-			</li>
-			<li>
+			<a class="nav-item" href="/about/">About-me</a>
+		</li>
+	  	<li>
+			<a class="nav-item" href="/">Artigos</a>
+		</li>
+		<li>
 			<a class="nav-item" href="/">Projetos</a>
 		</li>
 		<li>
@@ -45,7 +48,7 @@
 
 <div class="sidebar-item sidebar-nav">
   	<ul class="nav">
-			<li class="nav-title">Categories</li>
+			<li class="nav-title">Destaques</li>
 	    {% for category in site.categories %}
 	    <li>
 	    	<a class="nav-item" href="{{ root_url }}/{{ site.category_dir }}#{{ category | first }}">
@@ -59,5 +62,5 @@
 </div>
 
 <div class="sidebar-item sidebar-footer">
-	<p>Powered by <a href="https://github.com/jekyll/jekyll">Jekyll</a></p>
+	<p>© 2020 Francisco Valadares. Powered by <a href="https://github.com/jekyll/jekyll">Jekyll</a></p>
 </div>
