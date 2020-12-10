@@ -1,0 +1,111 @@
+I"<h2 id="quem-sou">Quem sou</h2>
+<blockquote>
+  <p>Sou Brasileiro, nasci no interior do Tocantins (em Conceição do Tocantins). Formei em Ciências da Computação pela PUC-GO. 
+Gosto de desafios, de automatizar e resolver problemas na vida real com ferramentas de tecnologia. Além disso, dentre outros <em>hobbies</em>, tenho prazer em trabalhar com: Engenharia de Software; Desenvolvimento de Sistemas;Desenvolvimento mobile e Machine Learning.</p>
+</blockquote>
+
+<h3 id="abilidadesexperiências">Abilidades/Experiências</h3>
+<ul>
+  <li>Engenharia de Software;</li>
+  <li>Desenvolvimento Mobile;</li>
+  <li>Programação Java, c#,  Flutter;</li>
+  <li>JavaScript, CSS, HTML, Markdown;</li>
+  <li>Linux, Docker;</li>
+  <li>Git, integração contínua.</li>
+  <li>Deep Learning, Machine Learning;</li>
+  <li>Python, Pandas, numpy</li>
+</ul>
+
+<h4 id="mail">Mail</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th style="text-align: center">ico</th>
+      <th>shortcode</th>
+      <th style="text-align: center">ico</th>
+      <th>shortcode</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#objects">top</a></td>
+      <td style="text-align: center">:email:</td>
+      <td><code class="highlighter-rouge">:email:</code> <br /> <code class="highlighter-rouge">:envelope:</code></td>
+      <td style="text-align: center">:e-mail:</td>
+      <td><code class="highlighter-rouge">:e-mail:</code></td>
+      <td><a href="#table-of-contents">top</a></td>
+    </tr>
+    <tr>
+      <td><a href="#objects">top</a></td>
+      <td style="text-align: center">:incoming_envelope:</td>
+      <td><code class="highlighter-rouge">:incoming_envelope:</code></td>
+      <td style="text-align: center">:envelope_with_arrow:</td>
+      <td><code class="highlighter-rouge">:envelope_with_arrow:</code></td>
+      <td><a href="#table-of-contents">top</a></td>
+    </tr>
+    <tr>
+      <td><a href="#objects">top</a></td>
+      <td style="text-align: center">:outbox_tray:</td>
+      <td><code class="highlighter-rouge">:outbox_tray:</code></td>
+      <td style="text-align: center">:inbox_tray:</td>
+      <td><code class="highlighter-rouge">:inbox_tray:</code></td>
+      <td><a href="#table-of-contents">top</a></td>
+    </tr>
+    <tr>
+      <td><a href="#objects">top</a></td>
+      <td style="text-align: center">:package:</td>
+      <td><code class="highlighter-rouge">:package:</code></td>
+      <td style="text-align: center">:mailbox:</td>
+      <td><code class="highlighter-rouge">:mailbox:</code></td>
+      <td><a href="#table-of-contents">top</a></td>
+    </tr>
+    <tr>
+      <td><a href="#objects">top</a></td>
+      <td style="text-align: center">:mailbox_closed:</td>
+      <td><code class="highlighter-rouge">:mailbox_closed:</code></td>
+      <td style="text-align: center">:mailbox_with_mail:</td>
+      <td><code class="highlighter-rouge">:mailbox_with_mail:</code></td>
+      <td><a href="#table-of-contents">top</a></td>
+    </tr>
+    <tr>
+      <td><a href="#objects">top</a></td>
+      <td style="text-align: center">:mailbox_with_no_mail:</td>
+      <td><code class="highlighter-rouge">:mailbox_with_no_mail:</code></td>
+      <td style="text-align: center">:postbox:</td>
+      <td><code class="highlighter-rouge">:postbox:</code></td>
+      <td><a href="#table-of-contents">top</a></td>
+    </tr>
+    <tr>
+      <td><a href="#objects">top</a></td>
+      <td style="text-align: center">:ballot_box:</td>
+      <td><code class="highlighter-rouge">:ballot_box:</code></td>
+      <td style="text-align: center"> </td>
+      <td> </td>
+      <td><a href="#table-of-contents">top</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- 
+### _config.yml
+> Code block will look like this.
+```yml
+highlighter-theme: monokai //you can change your syntax color scheme.
+date_format: "%Y-%M-%D" //and date format.
+```
+
+### Screenshots
+#### Page
+![alt text](/public/img/screenshot-1.png)
+#### Articles
+![alt text](/public/img/screenshot-2.png)
+#### Page - Mobile
+![alt text](/public/img/screenshot-m1.png)
+#### Page - Articles
+![alt text](/public/img/screenshot-m2.png)
+
+#999627174 -->
+:ET

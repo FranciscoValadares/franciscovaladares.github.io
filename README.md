@@ -4,17 +4,34 @@ title: About
 permalink: /about/
 ---
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
+## Quem sou
+> Sou Brasileiro, nasci no interior do Tocantins (em Conceição do Tocantins). Formei em Ciências da Computação pela PUC-GO. 
+Gosto de desafios, de automatizar e resolver problemas na vida real com ferramentas de tecnologia. Além disso, dentre outros *hobbies*, tenho prazer em trabalhar com: Engenharia de Software; Desenvolvimento de Sistemas;Desenvolvimento mobile e Machine Learning.
 
-### Features
-- Responsive.
-- Syntax Highlight
-- Most optimized theme for tech blog.
-- Lightweight with minimum stylesheet.
-- Easy to customize.
-- Offers category menu.
 
+### Abilidades/Experiências 
+- Engenharia de Software;
+- Desenvolvimento Mobile;
+- Programação Java, c#,  Flutter;
+- JavaScript, CSS, HTML, Markdown;
+- Linux, Docker;
+- Git, integração contínua.
+- Deep Learning, Machine Learning;
+- Python, Pandas, numpy
+
+
+### Contatos
+
+
+-----------------|-------------------
+E-mail:          | <valadares.francisco@gmail.com>
+E-mail:          | <valadares.dev@gmail.com>
+Linkedin:        | [http://www.linkedin.com/in/francisco-valadares](http://www.linkedin.com/in/francisco-valadares)
+ 
+
+
+
+<!-- 
 ### _config.yml
 > Code block will look like this.
 ```yml
@@ -32,4 +49,4 @@ date_format: "%Y-%M-%D" //and date format.
 #### Page - Articles
 ![alt text](/public/img/screenshot-m2.png)
 
-#999627174
+#999627174 -->

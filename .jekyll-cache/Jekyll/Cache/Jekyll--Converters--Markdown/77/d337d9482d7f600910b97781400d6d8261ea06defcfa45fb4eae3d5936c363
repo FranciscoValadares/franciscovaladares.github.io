@@ -1,0 +1,57 @@
+I"<h2 id="quem-sou">Quem sou</h2>
+<blockquote>
+  <p>Sou Brasileiro, nasci no interior do Tocantins (em Conceição do Tocantins). Formei em Ciências da Computação pela PUC-GO. 
+Gosto de desafios, de automatizar e resolver problemas na vida real com ferramentas de tecnologia. Além disso, dentre outros <em>hobbies</em>, tenho prazer em trabalhar com: Engenharia de Software; Desenvolvimento de Sistemas;Desenvolvimento mobile e Machine Learning.</p>
+</blockquote>
+
+<h3 id="abilidadesexperiências">Abilidades/Experiências</h3>
+<ul>
+  <li>Engenharia de Software;</li>
+  <li>Desenvolvimento Mobile;</li>
+  <li>Programação Java, c#,  Flutter;</li>
+  <li>JavaScript, CSS, HTML, Markdown;</li>
+  <li>Linux, Docker;</li>
+  <li>Git, integração contínua.</li>
+  <li>Deep Learning, Machine Learning;</li>
+  <li>Python, Pandas, numpy</li>
+</ul>
+
+<h3 id="contatos">Contatos</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td>E-mail:</td>
+      <td><a href="mailto:valadares.francisco@gmail.com">valadares.francisco@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>E-mail:</td>
+      <td><a href="mailto:valadares.dev@gmail.com">valadares.dev@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>Linkedin:</td>
+      <td><a href="http://www.linkedin.com/in/francisco-valadares">http://www.linkedin.com/in/francisco-valadares</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- 
+### _config.yml
+> Code block will look like this.
+```yml
+highlighter-theme: monokai //you can change your syntax color scheme.
+date_format: "%Y-%M-%D" //and date format.
+```
+
+### Screenshots
+#### Page
+![alt text](/public/img/screenshot-1.png)
+#### Articles
+![alt text](/public/img/screenshot-2.png)
+#### Page - Mobile
+![alt text](/public/img/screenshot-m1.png)
+#### Page - Articles
+![alt text](/public/img/screenshot-m2.png)
+
+#999627174 -->
+:ET
