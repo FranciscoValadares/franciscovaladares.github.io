@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Quem sou
 permalink: /about/
 ---
 
-## Quem sou
+<!-- ## Quem sou -->
 > Sou Brasileiro, nasci no interior do Tocantins (em Conceição do Tocantins). Formei em Ciências da Computação pela PUC-GO. 
 Gosto de desafios, de automatizar e resolver problemas na vida real com ferramentas de tecnologia. Além disso, dentre outros *hobbies*, tenho prazer em trabalhar com: Engenharia de Software; Desenvolvimento de Sistemas;Desenvolvimento mobile e Machine Learning.
 
 
-### Abilidades/Experiências 
+### Habilidades/Experiências 
 - Engenharia de Software;
 - Desenvolvimento Mobile;
 - Programação Java, c#,  Flutter;

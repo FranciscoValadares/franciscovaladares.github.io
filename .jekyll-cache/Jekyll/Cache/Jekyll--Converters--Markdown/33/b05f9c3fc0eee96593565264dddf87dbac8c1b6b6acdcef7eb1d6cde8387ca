@@ -1,10 +1,10 @@
-I"�<h2 id="quem-sou">Quem sou</h2>
+I"�<!-- ## Quem sou -->
 <blockquote>
   <p>Sou Brasileiro, nasci no interior do Tocantins (em Conceição do Tocantins). Formei em Ciências da Computação pela PUC-GO. 
 Gosto de desafios, de automatizar e resolver problemas na vida real com ferramentas de tecnologia. Além disso, dentre outros <em>hobbies</em>, tenho prazer em trabalhar com: Engenharia de Software; Desenvolvimento de Sistemas;Desenvolvimento mobile e Machine Learning.</p>
 </blockquote>
 
-<h3 id="abilidadesexperiências">Abilidades/Experiências</h3>
+<h3 id="habilidadesexperiências">Habilidades/Experiências</h3>
 <ul>
   <li>Engenharia de Software;</li>
   <li>Desenvolvimento Mobile;</li>
@@ -19,24 +19,18 @@ Gosto de desafios, de automatizar e resolver problemas na vida real com ferramen
 <h3 id="contatos">Contatos</h3>
 
 <table>
-  <thead>
-    <tr>
-      <th>Meio de contato</th>
-      <th>Endereço de contato</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td>E-mail</td>
-      <td>valadares.francisco@gmail.com</td>
+      <td>E-mail:</td>
+      <td><a href="mailto:valadares.francisco@gmail.com">valadares.francisco@gmail.com</a></td>
     </tr>
     <tr>
-      <td>E-mail</td>
-      <td>valadares.dev@gmail.com</td>
+      <td>E-mail:</td>
+      <td><a href="mailto:valadares.dev@gmail.com">valadares.dev@gmail.com</a></td>
     </tr>
     <tr>
-      <td>Linkedin</td>
-      <td><a href="http://www.linkedin.com/in/francisco-valadares">linkedin</a></td>
+      <td>Linkedin:</td>
+      <td><a href="http://www.linkedin.com/in/francisco-valadares">http://www.linkedin.com/in/francisco-valadares</a></td>
     </tr>
   </tbody>
 </table>
