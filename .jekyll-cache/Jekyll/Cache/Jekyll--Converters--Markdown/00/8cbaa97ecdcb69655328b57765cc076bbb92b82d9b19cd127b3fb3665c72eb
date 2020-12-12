@@ -1,91 +1,198 @@
----
-layout: page
-title: Estudos & Leituras
-permalink: /leituras/
----
+I"s2<h3 id="desenvolvimento-de-software">Desenvolvimento de Software</h3>
 
+<table>
+  <tbody>
+    <tr>
+      <td>Guia do desenvolvedor HTML.:</td>
+      <td><a href="https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML">Mozilla Web Guide</a></td>
+    </tr>
+    <tr>
+      <td>Software Enginnering:</td>
+      <td><a href="http://best-practice-software-engineering.ifs.tuwien.ac.at/index.html">Best Practice Software Engineering</a></td>
+    </tr>
+    <tr>
+      <td>Padrões de Projeto:</td>
+      <td><a href="https://brizeno.wordpress.com/padroes/">Por Marcos Brizeno</a></td>
+    </tr>
+    <tr>
+      <td>Learn web development:</td>
+      <td><a href="https://developer.mozilla.org/en-US/docs/Learn">MDN Web Docs</a></td>
+    </tr>
+    <tr>
+      <td>UML:</td>
+      <td><a href="http://sgvclin.altervista.org/rea-uml/">Recurso Educacional Aberto para Ensino da UML</a></td>
+    </tr>
+    <tr>
+      <td>Java - quick tests:</td>
+      <td><a href="https://repl.it/@FranciscoValada/ShimmeringPowerfulGzip#Main.java">Repl.it - Java Online</a></td>
+    </tr>
+    <tr>
+      <td>DevOps :</td>
+      <td><a href="https://aws.amazon.com/pt/devops/what-is-devops/">O que é o DevOps?</a></td>
+    </tr>
+  </tbody>
+</table>
 
-### Desenvolvimento de Software
+<h3 id="deep-learning-machine-learning-and-ia">Deep Learning, Machine Learning And IA</h3>
 
--------------------|----------------------------------------------------------------------------------------------------------------
-Guia do desenvolvedor HTML.:| [Mozilla Web Guide](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML) 
-Software Enginnering:       | [Best Practice Software Engineering](http://best-practice-software-engineering.ifs.tuwien.ac.at/index.html) 
-Padrões de Projeto:         | [Por Marcos Brizeno](https://brizeno.wordpress.com/padroes/)
-Learn web development:      | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
-UML:| [Recurso Educacional Aberto para Ensino da UML](http://sgvclin.altervista.org/rea-uml/)
-Java - quick tests: | [Repl.it - Java Online](https://repl.it/@FranciscoValada/ShimmeringPowerfulGzip#Main.java)       
-DevOps : | [O que é o DevOps?](https://aws.amazon.com/pt/devops/what-is-devops/)       
+<table>
+  <tbody>
+    <tr>
+      <td>Kaggle:</td>
+      <td><a href="https://www.kaggle.com/learn/overview">Kaggle Learn</a></td>
+    </tr>
+    <tr>
+      <td>fast.ai:</td>
+      <td><a href="https://www.fast.ai/">https://www.fast.ai/</a></td>
+    </tr>
+    <tr>
+      <td>ML Course:</td>
+      <td><a href="https://developers.google.com/machine-learning/crash-course">Machine Learning Crash Course</a></td>
+    </tr>
+  </tbody>
+</table>
 
-### Deep Learning, Machine Learning And IA
+<h3 id="material-net-corenet-c-java">Material .Net Core,.Net, c#, Java</h3>
 
-Kaggle:    | [Kaggle Learn](https://www.kaggle.com/learn/overview)
-fast.ai:   | [https://www.fast.ai/](https://www.fast.ai/)
-ML Course: | [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+<table>
+  <tbody>
+    <tr>
+      <td>DotNet Core:</td>
+      <td><a href="https://medium.com/trimble-maps-engineering-blog/getting-started-with-net-core-docker-and-rabbitmq-part-1-a62601e784bb">Getting Started with .NET Core, Docker</a></td>
+    </tr>
+    <tr>
+      <td>Java :</td>
+      <td><a href="https://www.javafree.org/">primeiros passos</a></td>
+    </tr>
+    <tr>
+      <td>Java Practices :</td>
+      <td><a href="http://www.javapractices.com/home/HomeAction.do">Java Practices</a></td>
+    </tr>
+  </tbody>
+</table>
 
+<h3 id="aprendendo-linux">Aprendendo Linux</h3>
 
+<table>
+  <tbody>
+    <tr>
+      <td>Linux Journey:</td>
+      <td><a href="https://linuxjourney.com/">Learn the ways of Linux-fu, for free.</a></td>
+    </tr>
+    <tr>
+      <td>Linux:</td>
+      <td><a href="file:///Users/franciscovaladares/Documents/Estudos/Redes/Linux/How%20Linux%20Works%20What%20Every%20Superuser%20Should%20Know.pdf">How Linux Works</a></td>
+    </tr>
+    <tr>
+      <td>Kernel:</td>
+      <td><a href="https://www.kernel.org/">The Linux Kernel Archives</a></td>
+    </tr>
+    <tr>
+      <td>Arch:</td>
+      <td><a href="https://minnie.tuhs.org/CompArch/">Systems Architecture</a></td>
+    </tr>
+  </tbody>
+</table>
 
-### Material .Net Core,.Net, c#, Java
+<table>
+  <tbody>
+    <tr>
+      <td>Docker:</td>
+      <td><a href="https://docker-curriculum.com/#webapps-with-docker">Docker for beginners</a></td>
+    </tr>
+    <tr>
+      <td>Lab:</td>
+      <td><a href="https://labs.play-with-docker.com/#">A simple, interactive and fun playground to learn Docker</a></td>
+    </tr>
+    <tr>
+      <td>Git:</td>
+      <td><a href="https://git-scm.com/docs/gittutorial">Git Tutorial</a></td>
+    </tr>
+    <tr>
+      <td>Git:</td>
+      <td><a href="https://www.freecodecamp.org/news/an-introduction-to-git-for-absolute-beginners-86fa1d32ff71/">Git for begginers</a></td>
+    </tr>
+  </tbody>
+</table>
 
--------------------|----------------------------------------------------------------------------------------------------------------
-DotNet Core:| [Getting Started with .NET Core, Docker](https://medium.com/trimble-maps-engineering-blog/getting-started-with-net-core-docker-and-rabbitmq-part-1-a62601e784bb)
-Java :| [primeiros passos](https://www.javafree.org/)
-Java Practices :| [Java Practices](http://www.javapractices.com/home/HomeAction.do)
+<h3 id="aprendendo-english">Aprendendo English</h3>
 
+<table>
+  <tbody>
+    <tr>
+      <td>English e-Reader:</td>
+      <td><a href="https://english-e-reader.net/">English e-Reader</a></td>
+    </tr>
+    <tr>
+      <td>English For You:</td>
+      <td><a href="https://www.youtube.com/channel/UCaUajKAl3cpGQ6KARpnz_3w">YouTube</a></td>
+    </tr>
+  </tbody>
+</table>
 
-### Aprendendo Linux
+<h3 id="notícias--tecnologias">Notícias &amp; Tecnologias</h3>
 
--------------------|----------------------------------------------------------------------------------------------------------------
-Linux Journey: | [Learn the ways of Linux-fu, for free.](https://linuxjourney.com/)
-Linux: | [How Linux Works](file:///Users/franciscovaladares/Documents/Estudos/Redes/Linux/How%20Linux%20Works%20What%20Every%20Superuser%20Should%20Know.pdf)
-Kernel: | [The Linux Kernel Archives](https://www.kernel.org/)
-Arch: | [Systems Architecture](https://minnie.tuhs.org/CompArch/)
+<table>
+  <tbody>
+    <tr>
+      <td>News :</td>
+      <td><a href="https://www.cnet.com/news/">cnet.com</a></td>
+    </tr>
+  </tbody>
+</table>
 
-Docker:       | [Docker for beginners](https://docker-curriculum.com/#webapps-with-docker)
-Lab: | [A simple, interactive and fun playground to learn Docker](https://labs.play-with-docker.com/#)
-Git: | [Git Tutorial](https://git-scm.com/docs/gittutorial)
-Git: | [Git for begginers](https://www.freecodecamp.org/news/an-introduction-to-git-for-absolute-beginners-86fa1d32ff71/)
+<h3 id="material-de-referencia-jekyll">Material de referencia Jekyll</h3>
 
+<table>
+  <tbody>
+    <tr>
+      <td>jekyll-categories.:</td>
+      <td><a href="https://blog.webjeda.com/jekyll-categories/">categories</a></td>
+    </tr>
+    <tr>
+      <td>new page jekyll…:</td>
+      <td><a href="https://blog.webjeda.com/new-page-jekyll/">new page jekyll</a></td>
+    </tr>
+    <tr>
+      <td>MarkDown……….:</td>
+      <td><a href="https://guides.github.com/features/mastering-markdown/">MarkDown</a></td>
+    </tr>
+    <tr>
+      <td>DotNet Core…….:</td>
+      <td><a href="https://medium.com/trimble-maps-engineering-blog/          getting-started-with-net-core-docker-and-rabbitmq-part-1-a62601e784bb">d.NET Core, Docker, and RabbitMQ — Part 1</a></td>
+    </tr>
+  </tbody>
+</table>
 
+<h3 id="família">Família</h3>
 
-### Aprendendo English
+<table>
+  <tbody>
+    <tr>
+      <td>Raising Children Network:</td>
+      <td><a href="https://raisingchildren.net.au/babies/play-learning/learning-ideas/learning-baby-to-preschool">How children learn</a></td>
+    </tr>
+  </tbody>
+</table>
 
--------------------|----------------------------------------------------------------------------------------------------------------
-English e-Reader: | [English e-Reader](https://english-e-reader.net/) 
-English For You:| [YouTube](https://www.youtube.com/channel/UCaUajKAl3cpGQ6KARpnz_3w) 
- 
+<h3 id="kids-programming">Kids Programming</h3>
 
-
-
-### Notícias & Tecnologias 
-
--------------------|----------------------------------------------------------------------------------------------------------------
-News :| [cnet.com](https://www.cnet.com/news/)
-
-
-### Material de referencia Jekyll
-
--------------------|----------------------------------------------------------------------------------------------------------------
-jekyll-categories.:| [categories](https://blog.webjeda.com/jekyll-categories/) 
-new page jekyll...:| [new page jekyll](https://blog.webjeda.com/new-page-jekyll/) 
-MarkDown..........:| [MarkDown](https://guides.github.com/features/mastering-markdown/)
-DotNet Core.......:| [d.NET Core, Docker, and RabbitMQ — Part 1](https://medium.com/trimble-maps-engineering-blog/          getting-started-with-net-core-docker-and-rabbitmq-part-1-a62601e784bb)
-
-
-
-### Família
-
--------------------|----------------------------------------------------------------------------------------------------------------
-Raising Children Network:| [How children learn](https://raisingchildren.net.au/babies/play-learning/learning-ideas/learning-baby-to-preschool)
-
-
-### Engage My Child's in Programming
-
--------------------|----------------------------------------------------------------------------------------------------------------
-Scratch: | [Get Creative with Coding!](https://scratch.mit.edu/)
-Games codecombat: | [The most engaging way to learn computer science](https://codecombat.com/)
-CodeMonkey: | [Coding for Kids](https://www.codemonkey.com/)
-App's: | [Lista de App's](https://codewizardshq.com/coding-for-kids-free/)
-
+<table>
+  <tbody>
+    <tr>
+      <td>Scratch:</td>
+      <td><a href="https://scratch.mit.edu/">Get Creative with Coding!</a></td>
+    </tr>
+    <tr>
+      <td>Game:</td>
+      <td><a href="https://br.codecombat.com/">codecombat</a></td>
+    </tr>
+    <tr>
+      <td>App’s:</td>
+      <td><a href="https://codewizardshq.com/coding-for-kids-free/">Lista de App’s</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- 
 
@@ -192,3 +299,4 @@ date_format: "%Y-%M-%D" //and date format.
 
 
 -->
+:ET
