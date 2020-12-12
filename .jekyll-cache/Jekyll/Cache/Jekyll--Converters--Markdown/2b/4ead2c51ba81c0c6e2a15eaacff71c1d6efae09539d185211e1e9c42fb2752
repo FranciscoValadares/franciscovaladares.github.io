@@ -1,20 +1,59 @@
-I"�<p>Para para material de leitura</p>
+I"�$<h4 id="material-de-referencia-jekyll">Material de referencia Jekyll</h4>
 
-<h4 id="material-de-referencia-para-o-jekyll">Material de referencia para o jekyll</h4>
-<ul>
-  <li><a href="https://blog.webjeda.com/jekyll-categories/">categories</a></li>
-  <li><a href="https://blog.webjeda.com/new-page-jekyll/">new page jekyll</a></li>
-</ul>
+<table>
+  <tbody>
+    <tr>
+      <td>jekyll-categories.:</td>
+      <td><a href="https://blog.webjeda.com/jekyll-categories/">categories</a></td>
+    </tr>
+    <tr>
+      <td>new page jekyll…:</td>
+      <td><a href="https://blog.webjeda.com/new-page-jekyll/">new page jekyll</a></td>
+    </tr>
+    <tr>
+      <td>MarkDown……….:</td>
+      <td><a href="https://guides.github.com/features/mastering-markdown/">MarkDown</a></td>
+    </tr>
+    <tr>
+      <td>DotNet Core…….:</td>
+      <td><a href="https://medium.com/trimble-maps-engineering-blog/          getting-started-with-net-core-docker-and-rabbitmq-part-1-a62601e784bb">d.NET Core, Docker, and RabbitMQ — Part 1</a></td>
+    </tr>
+  </tbody>
+</table>
 
-<h4 id="markdown">MarkDown</h4>
-<ul>
-  <li><a href="https://guides.github.com/features/mastering-markdown/">MarkDown</a></li>
-</ul>
+<h4 id="material-net-corenet-c">Material .Net Core,.Net, c#</h4>
 
-<h4 id="dotnet-core">DotNet Core</h4>
-<ul>
-  <li><a href="https://medium.com/trimble-maps-engineering-blog/getting-started-with-net-core-docker-and-rabbitmq-part-1-a62601e784bb">Getting Started with .NET Core, Docker, and RabbitMQ — Part 1</a></li>
-</ul>
+<table>
+  <tbody>
+    <tr>
+      <td>DotNet Core…….:</td>
+      <td><a href="https://medium.com/trimble-maps-engineering-blog/          getting-started-with-net-core-docker-and-rabbitmq-part-1-a62601e784bb">d.NET Core, Docker, and RabbitMQ — Part 1</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="desenvolvimento-de-software">Desenvolvimento de Software</h4>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Guia do desenvolvedor HTML.:</td>
+      <td><a href="https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML">Mozilla Web Guide</a></td>
+    </tr>
+    <tr>
+      <td>new page jekyll…:</td>
+      <td><a href="https://blog.webjeda.com/new-page-jekyll/">new page jekyll</a></td>
+    </tr>
+    <tr>
+      <td>MarkDown……….:</td>
+      <td><a href="https://guides.github.com/features/mastering-markdown/">MarkDown</a></td>
+    </tr>
+    <tr>
+      <td>DotNet Core…….:</td>
+      <td><a href="https://medium.com/trimble-maps-engineering-blog/          getting-started-with-net-core-docker-and-rabbitmq-part-1-a62601e784bb">d.NET Core, Docker, and RabbitMQ — Part 1</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <h3 id="_configyml">_config.yml</h3>
 <blockquote>

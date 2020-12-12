@@ -1,71 +1,74 @@
----
-layout: page
-title: Estudos & Leituras
-permalink: /leituras/
----
+I"�$<h4 id="material-de-referencia-jekyll">Material de referencia Jekyll</h4>
 
-### Material de referencia Jekyll
+<table>
+  <tbody>
+    <tr>
+      <td>jekyll-categories.:</td>
+      <td><a href="https://blog.webjeda.com/jekyll-categories/">categories</a></td>
+    </tr>
+    <tr>
+      <td>new page jekyll…:</td>
+      <td><a href="https://blog.webjeda.com/new-page-jekyll/">new page jekyll</a></td>
+    </tr>
+    <tr>
+      <td>MarkDown……….:</td>
+      <td><a href="https://guides.github.com/features/mastering-markdown/">MarkDown</a></td>
+    </tr>
+    <tr>
+      <td>DotNet Core…….:</td>
+      <td><a href="https://medium.com/trimble-maps-engineering-blog/          getting-started-with-net-core-docker-and-rabbitmq-part-1-a62601e784bb">d.NET Core, Docker, and RabbitMQ — Part 1</a></td>
+    </tr>
+  </tbody>
+</table>
 
--------------------|----------------------------------------------------------------------------------------------------------------
-jekyll-categories.:| [categories](https://blog.webjeda.com/jekyll-categories/) 
-new page jekyll...:| [new page jekyll](https://blog.webjeda.com/new-page-jekyll/) 
-MarkDown..........:| [MarkDown](https://guides.github.com/features/mastering-markdown/)
-DotNet Core.......:| [d.NET Core, Docker, and RabbitMQ — Part 1](https://medium.com/trimble-maps-engineering-blog/          getting-started-with-net-core-docker-and-rabbitmq-part-1-a62601e784bb)
+<h4 id="material-net-corenet-c">Material .Net Core,.Net, c#</h4>
 
+<table>
+  <tbody>
+    <tr>
+      <td>DotNet Core…….:</td>
+      <td><a href="https://medium.com/trimble-maps-engineering-blog/          getting-started-with-net-core-docker-and-rabbitmq-part-1-a62601e784bb">d.NET Core, Docker, and RabbitMQ — Part 1</a></td>
+    </tr>
+  </tbody>
+</table>
 
-### Material .Net Core,.Net, c#
+<h4 id="desenvolvimento-de-software">Desenvolvimento de Software</h4>
 
--------------------|----------------------------------------------------------------------------------------------------------------
-DotNet Core.......:| [d.NET Core, Docker, and RabbitMQ — Part 1](https://medium.com/trimble-maps-engineering-blog/          getting-started-with-net-core-docker-and-rabbitmq-part-1-a62601e784bb)
+<table>
+  <tbody>
+    <tr>
+      <td>Guia do desenvolvedor HTML.:</td>
+      <td><a href="https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML">Mozilla Web Guide</a></td>
+    </tr>
+    <tr>
+      <td>Software Enginnering:</td>
+      <td><a href="http://best-practice-software-engineering.ifs.tuwien.ac.at/index.html">Best Practice Software Engineering</a></td>
+    </tr>
+    <tr>
+      <td>Padrões de Projeto:</td>
+      <td><a href="https://brizeno.wordpress.com/padroes/">Por Marcos Brizeno</a></td>
+    </tr>
+    <tr>
+      <td>Learn web development:</td>
+      <td><a href="https://developer.mozilla.org/en-US/docs/Learn">MDN Web Docs</a></td>
+    </tr>
+  </tbody>
+</table>
 
-
-### Desenvolvimento de Software
-
--------------------|----------------------------------------------------------------------------------------------------------------
-Guia do desenvolvedor HTML.:| [Mozilla Web Guide](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML) 
-Software Enginnering:       | [Best Practice Software Engineering](http://best-practice-software-engineering.ifs.tuwien.ac.at/index.html) 
-Padrões de Projeto:         | [Por Marcos Brizeno](https://brizeno.wordpress.com/padroes/)
-Learn web development:      | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
-UML| [Recurso Educacional Aberto para Ensino da UML](http://sgvclin.altervista.org/rea-uml/)
-Java - quick tests | [Repl.it - Java Online](https://repl.it/@FranciscoValada/ShimmeringPowerfulGzip#Main.java)        
-
-
-
-
-### Aprendendo English
-
--------------------|----------------------------------------------------------------------------------------------------------------
-English e-Reader: | [English e-Reader](https://english-e-reader.net/) 
-English For You:| [YouTube](https://www.youtube.com/channel/UCaUajKAl3cpGQ6KARpnz_3w) 
- 
-
-
-### Aprendendo Linux
-
--------------------|----------------------------------------------------------------------------------------------------------------
-Linux Journey:| [Learn the ways of Linux-fu, for free.](https://linuxjourney.com/)
-Learn web development:      | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
-UML| [Recurso Educacional Aberto para Ensino da UML](http://sgvclin.altervista.org/rea-uml/)
-Java - quick tests | [Repl.it - Java Online](https://repl.it/@FranciscoValada/ShimmeringPowerfulGzip#Main.java)        
-
-
-
-https://english-e-reader.net/
-### _config.yml
-> Code block will look like this.
-```yml
-highlighter-theme: monokai //you can change your syntax color scheme.
-date_format: "%Y-%M-%D" //and date format.
-```
-
-
+<h3 id="_configyml">_config.yml</h3>
+<blockquote>
+  <p>Code block will look like this.</p>
+  <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">highlighter-theme</span><span class="pi">:</span> <span class="s">monokai //you can change your syntax color scheme.</span>
+<span class="na">date_format</span><span class="pi">:</span> <span class="s2">"</span><span class="s">%Y-%M-%D"</span> <span class="s">//and date format.</span>
+</code></pre></div>  </div>
+</blockquote>
 
 <table class="colwidths-given docutils align-default">
 <colgroup>
-<col style="width: 10%">
-<col style="width: 30%">
-<col style="width: 30%">
-<col style="width: 30%">
+<col style="width: 10%" />
+<col style="width: 30%" />
+<col style="width: 30%" />
+<col style="width: 30%" />
 </colgroup>
 <thead>
 <tr class="row-odd"><th class="head"><p>Task</p></th>
@@ -152,3 +155,4 @@ date_format: "%Y-%M-%D" //and date format.
 </tr>
 </tbody>
 </table>
+:ET
