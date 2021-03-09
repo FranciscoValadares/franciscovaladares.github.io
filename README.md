@@ -49,4 +49,11 @@ date_format: "%Y-%M-%D" //and date format.
 #### Page - Articles
 ![alt text](/public/img/screenshot-m2.png)
 
+
+https://www.youtube.com/watch?v=fOhvCfWgNiQ
+
+https://meet.google.com/cyy-uxak-ubu
 #999627174 -->
+
+<!-- Pandas:
+https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y -->
