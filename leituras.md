@@ -39,6 +39,8 @@ Linux Journey: | [Learn the ways of Linux-fu, for free.](https://linuxjourney.co
 Linux: | [How Linux Works](file:///Users/franciscovaladares/Documents/Estudos/Redes/Linux/How%20Linux%20Works%20What%20Every%20Superuser%20Should%20Know.pdf)
 Kernel: | [The Linux Kernel Archives](https://www.kernel.org/)
 Arch: | [Systems Architecture](https://minnie.tuhs.org/CompArch/)
+Busybox: | [Awesome Open Source](https://awesomeopensource.com/projects/busybox/)
+
 
 Docker:       | [Docker for beginners](https://docker-curriculum.com/#webapps-with-docker)
 Lab: | [A simple, interactive and fun playground to learn Docker](https://labs.play-with-docker.com/#)
