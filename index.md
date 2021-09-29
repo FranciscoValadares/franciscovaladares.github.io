@@ -25,4 +25,5 @@ Gosto de desafios, de automatizar e resolver problemas na vida real com ferramen
 -----------------|-------------------
 E-mail:          | <valadares.francisco@gmail.com>
 E-mail:          | <valadares.dev@gmail.com>
+Github:          | [https://github.com/FranciscoValadares](https://github.com/FranciscoValadares)
 Linkedin:        | [http://www.linkedin.com/in/fnrv](www.linkedin.com/in/fnrv)
