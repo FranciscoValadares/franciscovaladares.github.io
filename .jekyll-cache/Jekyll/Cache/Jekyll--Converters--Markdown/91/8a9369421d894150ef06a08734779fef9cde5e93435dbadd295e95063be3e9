@@ -1,0 +1,26 @@
+I"�<h3 id="projetos">Projetos</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td>App Why Baby Cry.:</td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.babycry.crying">App Play Store</a></td>
+    </tr>
+    <tr>
+      <td>Training Model:</td>
+      <td><a href="https://github.com/FranciscoValadares/why-baby-cry">Modelo Machine Learning - Why Baby Cry</a></td>
+    </tr>
+    <tr>
+      <td>Upload image spectrograms of the audio</td>
+      <td><a href="https://app.seeme.ai/#/?filter=public">Why Baby Cry - test into https://www.seeme.ai/</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="projetos-adb-cloud-in-progress-initial-phase">Projetos Adb-Cloud (in progress, initial phase)</h3>
+
+<p>——————-|—————————————————————————————————————-
+Projecto referência.:| <a href="https://github.com/extmkv/ADB-Wifi">Adb-Widi</a>
+conda install -c anaconda python=3.9
+conda create -n adbcloud python=3.9</p>
+:ET
