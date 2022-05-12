@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publicações
+title: Notes
 permalink: /publicacoes/
 ---
 
