@@ -4,8 +4,10 @@ title: Quem sou
 ---
 
 <!-- ## Quem sou -->
-> Sou Brasileiro, nasci no interior do Tocantins (em Conceição do Tocantins). Formei em Ciências da Computação pela PUC-GO. 
-Gosto de desafios, de automatizar e resolver problemas na vida real com ferramentas de tecnologia. Além disso, dentre outros *hobbies*, tenho prazer em trabalhar com: Engenharia de Software; Desenvolvimento de Sistemas;Desenvolvimento mobile e Machine Learning.
+> I would describe myself as someone who is motivated, enjoys working as a part of a team, 
+ and who really-like to find solutions and solve problems. Working in the tech industry for the last 8 years, working with Java, and Python, Container and Aws.
+Enjoy designing scalable, SOLID and clean code in a fast environment. 
+ I know when to ask for help and I don’t stay quiet if I do need assistance, and I also enjoy helping others.
 
 
 ### Habilidades/Experiências 
