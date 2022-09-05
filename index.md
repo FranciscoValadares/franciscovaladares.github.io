@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quem sou
+title: Who am I
 ---
 
 <!-- ## Quem sou -->
