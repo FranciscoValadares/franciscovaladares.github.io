@@ -18,7 +18,7 @@ I constantly seek challenges that allow me to expand my skill set and contribute
 >Throughout my career, I have worked on challenging projects, where I was able to consolidate my knowledge
 in:
 >Java, Spring-boot, Python and Django, c#: Solid experience in developing robust and scalable applications.
->TypeScript and Angular: Proficient in creating dynamic interfaces and engaging user experiences and an expert
+>JSF, TypeScript, Angular, Razor, html, javascript, css: Proficient in creating dynamic interfaces and engaging user experiences and an expert
 in building modern, responsive web applications.
 
 
