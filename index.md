@@ -4,21 +4,22 @@ title: Who am I
 ---
 
 <!-- ## Quem sou -->
-> I would describe myself as someone who is motivated, enjoys working as a part of a team, 
- and who really-like to find solutions and solve problems. Working in the tech industry for the last 8 years, working with Java, and Python, Container and Aws.
-Enjoy designing scalable, SOLID and clean code in a fast environment. 
- I know when to ask for help and I don’t stay quiet if I do need assistance, and I also enjoy helping others.
+> Hello! I'm Francisco, a software developer with over 12 years of experience, dedicated to improving and applying my skills to various projects. One of my passions is creating robust systems and solutions, following best practices to ensure clean, secure and easily maintained code.
+
+> I love to find and designing solutions to solve problems. I believe there are many solutions to a problem and we always need to weigh the advantages and disadvantages of possible solutions.
+
+> Among the professional objectives:
+I constantly seek challenges that allow me to expand my skill set and contribute to innovative solutions. One of my goals is, wherever I am, to create a positive impact through software development, delivering products and results that meet and exceed customer expectations.
 
 
-### Habilidades/Experiências 
-- Engenharia de Software;
-- Desenvolvimento Mobile;
-- Programação Java, c#,  Flutter;
-- JavaScript, CSS, HTML, Markdown;
-- Linux, Docker;
-- Git, integração contínua.
-- Deep Learning, Machine Learning;
-- Python, Pandas, numpy
+### Programming language skills: 
+
+
+>Throughout my career, I have worked on challenging projects, where I was able to consolidate my knowledge
+in:
+>Java, Spring-boot, Python and Django, c#: Solid experience in developing robust and scalable applications.
+>TypeScript and Angular: Proficient in creating dynamic interfaces and engaging user experiences and an expert
+in building modern, responsive web applications.
 
 
 ### Contatos
