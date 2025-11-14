@@ -24,13 +24,12 @@ description0: >- # this means to ignore newlines until "baseurl:"
   Software Developer | Java ☕ | 
 
 description1: >- # this means to ignore newlines until "baseurl:"
-  | Python 🐍 | Mobile 📱 | AWS ☁️ | 
+  | Python 🐍 | Mobile 📱 | 
 
-description2: >-  
-  | AI-Driven Systems 🤖 |
+description2: >- # this means to ignore newlines until "baseurl:"
+  | AWS ☁️ | AI-Driven Systems 🤖 | Scalable & Secure Solutions.
 
-description3: >- # this means to ignore newlines until "baseurl:"
-  | Scalable & Secure Solutions.
+  
 
 # baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "http://ejjoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
